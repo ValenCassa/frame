@@ -1,6 +1,6 @@
 # frame
 
-This is me playing around. No claim that it's production ready, no claim that it's even a good idea. Just a thing I'm building to see if it works.
+This is me playing around. No claim that it's production ready, no claim that it's even a good idea. I'm building it because it's fun.
 
 ## Why
 
